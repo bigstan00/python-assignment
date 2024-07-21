@@ -1,5 +1,4 @@
 sam
 19
 oshodi
-male
-4994
+mal

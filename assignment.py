@@ -35,3 +35,14 @@ account_details = int(input("Enter account-no "+name+":"))
 print("Saved")
 with open("output.txt", "a+") as f:
     f.write(str(account_details) + "\n")
+
+#strip(16) - strip here removes whitespaces at the begining and of a string character or removes any leading and trailing characters from a string and should be used in a conditional space
+#this is to define username access
+  #  if name ==():
+  #  exit()
+#elif name == "samuel" or name == "big stan":
+# print("correct name entry ""Saving.....")
+
+#else:
+#    print("yuor entry is incorrect ." "Not,Saved")  
+#    exit()
